@@ -48,7 +48,7 @@
 ## 📊 GitHub Stats
 <p align="left">
   <img src="https://github-readme-stats-nine-zeta-93.vercel.app/api?username=DinujayaSupun&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-  <img src="https://github-readme-stats-nine-zeta-93.vercel.app/api/top-langs/?username=DinujayaSupun&layout=compact&theme=tokyonight" alt="Top languages" />
+  <img src="https://github-readme-stats-nine-zeta-93.vercel.app/api/top-langs/?username=DinujayaSupun&layout=compact&theme=tokyonight&count_private=true" alt="Top languages" />
 </p>
 
 
