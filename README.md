@@ -31,6 +31,13 @@
 
 ---
 
+💡 **How I Can Contribute**
+- 🧠 Collaborate on data-driven or software development projects.  
+- 📊 Build impactful data visualizations, dashboards, or tools.  
+- 🤝 Share insights on Data Science, Software Engineering, AI, ML, and IT technologies.  
+
+---
+
 ## 🛠️ Languages and Tools
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,java,cpp,c,mysql,php,js,html,css,mongodb,express,react,nodejs,postman,git,figma,aws,gcp" />
@@ -48,6 +55,7 @@
 ---
 
 ## 📫 Connect With Me
+- 📧 Email: mdinujayasupun@gmail.com
 - 💼 [LinkedIn](www.linkedin.com/in/dinujaya-supun-81b161271)  
 - 🌐 Portfolio Website *(coming soon...)*  
 
