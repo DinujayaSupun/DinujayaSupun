@@ -56,8 +56,8 @@
 
 ## 📫 Connect With Me
 - 📧 Email: mdinujayasupun@gmail.com
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/dinujaya-supun-81b161271)  
-- 🌐 Portfolio Website *(coming soon...)*  
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dinujaya-supun-81b161271)  
+- 🌐 Portfolio Website *(coming soon...)*
 
 ---
 
