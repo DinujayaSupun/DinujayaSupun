@@ -31,7 +31,7 @@
 
 ---
 
-##💡 How I Can Contribute
+## 💡 How I Can Contribute
 - 🧠 Collaborate on data-driven or software development projects.  
 - 📊 Build impactful data visualizations, dashboards, or tools.  
 - 🤝 Share insights on Data Science, Software Engineering, AI, ML, and IT technologies.  
