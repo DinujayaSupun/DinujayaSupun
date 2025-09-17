@@ -40,8 +40,8 @@
 
 ## 📊 GitHub Stats
 <p align="left">
-  <img src="github-readme-stats-io5jwb2vg-dinujayas-projects-70553ecc.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-  <img src="github-readme-stats-io5jwb2vg-dinujayas-projects-70553ecc.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" alt="Top languages" />
+  <img src="github-readme-stats-io5jwb2vg-dinujayas-projects-70553ecc.vercel.app/api?username=DinujayaSupun&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+  <img src="github-readme-stats-io5jwb2vg-dinujayas-projects-70553ecc.vercel.app/api/top-langs/?username=DinujayaSupun&layout=compact&theme=tokyonight" alt="Top languages" />
 </p>
 
 ---
