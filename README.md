@@ -11,12 +11,12 @@
 - 💻 Skilled in **Python, Java, C, C++, JavaScript, PHP, SQL, HTML, CSS**  
 - 🗄️ Experienced with **MySQL**  
 - ☁️ Currently learning **R, AWS, Google Cloud** & **MERN Stack** 
-- 📊 Interested in **Data Science, Software Engineering, AI/ML, Cloud Computing, and IT Business Innovation**  
+- 📊 Interested in **Data Science, Software Engineering, AI/ML, Cloud Computing**  
 
 ---
 
 ## 🔭 What I’m Working On
-- Completing a **Python certification (University of Moratuwa)**  
+- Completing a **Python certification**  
 - Developing a **portfolio website** alongside GitHub projects  
 - Strengthening **presentation & leadership skills** through academic projects  
 - Exploring **AI/ML** with online courses  
