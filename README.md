@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Dinujaya
 
 🚀 Aspiring **Data Scientist** |🎓 IT Undergraduate at SLIIT (Specializing in Data Science)  
-💡 Passionate about **AI, Machine Learning, and Data-driven solutions**  
+💡 Passionate about **Software developing, AI, Machine Learning, and Data-driven solutions**  
 🌍 From Sri Lanka 🇱🇰  
 
 ---
