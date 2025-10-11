@@ -8,8 +8,7 @@
 
 ## 🌟 About Me
 - 🎓 Pursuing BSc (Hons) in Information Technology (Data Science) – SLIIT  
-- 💻 Skilled in **Python, Java, C, C++, JavaScript, PHP, SQL, HTML, CSS**  
-- 🗄️ Experienced with **MySQL**  
+- 💻 Skilled in **Python, Java, C, C++, JavaScript, PHP, SQL, HTML, CSS**,**MySQL**  
 - ☁️ Currently learning **R, AWS, Google Cloud** & **MERN Stack** 
 - 📊 Interested in **Data Science, Software Engineering, AI/ML, Cloud Computing**  
 
