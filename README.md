@@ -15,29 +15,6 @@
 
 ---
 
-## 🔭 What I’m Working On
-- Completing a **Python certification**  
-- Developing a **portfolio website** alongside GitHub projects  
-- Strengthening **presentation & leadership skills** through academic projects  
-- Exploring **AI/ML** with online courses  
-
----
-
-## 📚 What I’m Learning
-- Advanced problem-solving & software engineering practices
-- Data Structures and Algorithems, python, java, MERN stack, R
-- Professional skills
-- Machine Learning & AI fundamentals   
-
----
-
-## 💡 How I Can Contribute
-- 🧠 Collaborate on data-driven or software development projects.  
-- 📊 Build impactful data visualizations, dashboards, or tools.  
-- 🤝 Share insights on Data Science, Software Engineering, AI, ML, and IT technologies.  
-
----
-
 ## 🛠️ Languages and Tools
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,java,cpp,c,mysql,php,js,html,css,mongodb,express,react,nodejs,postman,git,figma,kotlin,aws,gcp" />
