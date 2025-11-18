@@ -34,6 +34,3 @@
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dinujaya-supun-81b161271)  
 - 🌐 Portfolio Website *(coming soon...)*
 
----
-
-⭐️ *“Problem-solving, lifelong learning, and innovation are the keys I live by.”*
